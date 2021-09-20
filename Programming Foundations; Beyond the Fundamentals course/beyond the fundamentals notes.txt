@@ -1,0 +1,30 @@
+#collection in programming lets me group similar items together using a single name, which is known as a variable.
+ Organizing data in this way has a few advantages.
+ creating a collection uses your code structure to indicate that multiple pieces of data are related.
+
+# iterates in programming it's repeats the same procedure multiple times until it reaches a specified endpoint. 
+Code that iterates is often described as a loop, because the process moves from beginning to end and then starts over again at the beginning,
+ possibly hundreds or even thousands of times.
+ Every programming language has syntax just for iteration. 
+
+# The basic ingredients are measured and combined for you, saving you some time but you still get to pick the shape of the pan, 
+the type of frosting and any filling or decoration you want to use.
+ Sometimes it makes sense to use multiple modules together, so they're distributed and used in a group.
+
+# There are three main types of bugs in computer programs.
+- A program has a syntax error when it includes code that doesn't match the rules of the language.
+- Sometimes your code can comply with all the rules of the language but still not execute successfully. 
+For instance, suppose you include a call to a function that isn't ever defined.
+ A function call is a valid statement.This type of bug is known as a run-time error
+ because it often isn't obvious until the code is actually run.
+-  A third type of error happens when you write code that runs but doesn't produce the results you expect. 
+For instance, a loop that counts in the wrong direction continues infinitely. 
+And as a result the program never completes execution. This is known as a logic error 
+
+# Object-oriented code breaks a program up into smaller parts known as objects. Each of these objects has its own distinct focus.
+ Objects communicate with each other to make the program function,
+ but the division into smaller units makes the code easier to maintain and easier to reuse.
+
+# Space is an issue when running a computer program as well. A computer uses two main types of storage.
+ There's the drive, which stores programs and data even when the computer is shut down, and there's the memory which holds a copy of any code that's running,
+ as well as the results of any calculations and other manipulation that my programs do. 
